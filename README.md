@@ -36,7 +36,7 @@ If a file is not found at a certain peer, the request is forwarded to the neighb
 The peers list has periodic updates to make sure the peers have the most recent information about their active neighbours.
 
 # Future Improvements and limitations
-The tracker server should only send a subset of its peers. 
-Sometimes the peers do not receive file requests.
+- The tracker server should only send a subset of its peers. 
+- Sometimes the peers do not receive file requests.
 
 
