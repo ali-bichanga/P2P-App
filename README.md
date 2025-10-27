@@ -37,5 +37,6 @@ The peers list has periodic updates to make sure the peers have the most recent 
 
 # Future Improvements and limitations
 The tracker server should only send a subset of its peers. 
+Sometimes the peers do not receive file requests.
 
 
