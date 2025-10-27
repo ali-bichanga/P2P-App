@@ -14,7 +14,7 @@ import (
 
 
 var FILES_LIST = []string{} // Initialize empty file list; files will be read from the directory
-var IP_ADDRESS = "192.168.1.159"
+var IP_ADDRESS = "YOUR IP ADDRESS HERE"
 var NEIGHBORS []string
 var PORTS_OPEN []string
 
